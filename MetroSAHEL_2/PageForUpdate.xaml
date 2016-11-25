@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="MetroSAHEL_2.PageForUpdate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MetroSAHEL_2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Loaded="Page_Loaded"
+    RequestedTheme="Dark"
+    mc:Ignorable="d"  >
+
+
+    
+
+    <Grid Background="{ThemeResource SystemControlBackgroundAccentBrush}">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch">
+            <TextBlock HorizontalAlignment="Center" FontFamily="Segoe MDL2 Assets" Margin="20" FontSize="75">
+            
+            </TextBlock>
+            <TextBlock TextWrapping="WrapWholeWords" HorizontalAlignment="Center">
+                Cette application est obsolète
+            </TextBlock>
+            <TextBlock TextWrapping="WrapWholeWords" HorizontalAlignment="Center">
+                
+               Vous êtes obligé d'installer le mise â jour !
+            </TextBlock>
+            <Button Content="Mise â jour" Margin="30" HorizontalAlignment="Stretch" Name="UpdateButton" Click="UpdateButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

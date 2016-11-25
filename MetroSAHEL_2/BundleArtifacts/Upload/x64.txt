@@ -1,0 +1,2 @@
+MainPackage=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x64\Release\Upload\MetroSAHEL_2_1.3.0.0_x64.appx
+SymbolPackage=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\AppPackages\MetroSAHEL_2_1.3.0.0\MetroSAHEL_2_1.3.0.0_x64.appxsym

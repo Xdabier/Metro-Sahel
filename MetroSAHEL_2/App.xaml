@@ -1,0 +1,17 @@
+﻿<Application
+    x:Class="MetroSAHEL_2.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MetroSAHEL_2"
+    RequestedTheme="Light">
+    <Application.Resources>
+        <Color x:Key="firstColor">#01579B</Color>
+        <Color x:Key="SecondColor">#0288D1</Color>
+        <Color x:Key="ThirdColor">#1565C0</Color>
+        <Color x:Key="FourthColor">#4FC3F7</Color>
+        <Color x:Key="FifthColor">#B3E5FC</Color>
+        <Color x:Key="SixColor">#E3F2FD</Color>
+        <Color x:Key="FontColor50">#FF9800</Color>
+
+    </Application.Resources>
+</Application>

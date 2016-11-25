@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="MetroSAHEL_2.TimesPageSM"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MetroSAHEL_2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:MetroSAHEL_2.Models"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPressedForegroundThemeBrush}">
+        <Grid Name="g1"  Margin="5" CornerRadius="5" Background="{ThemeResource ComboBoxPointerOverBackgroundThemeBrush}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" RequestedTheme="Light">
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,10" Background="White">
+                    <Button Content=""  FontSize="30"  Background="GhostWhite" VerticalAlignment="Stretch" 
+                    FontFamily="Segoe MDL2 Assets" Name="BackButton" Click="BackButton_Click" />
+                    <TextBlock Text="Sousse" HorizontalAlignment="Left"
+                           FontSize="30" Margin="10,10,10,10" FontWeight="Thin"/>
+                    <TextBlock Text="" FontFamily="Segoe MDL2 Assets"  
+                               VerticalAlignment="Center" HorizontalAlignment="Center"
+                               Margin="10"  FontSize="30" />
+                    <TextBlock HorizontalAlignment="Right" Text="Mahdia" Margin="10,10,20,10" FontSize="30" FontWeight="Thin"/>
+                </StackPanel>
+                <Grid  Margin="10" BorderBrush="Gray" BorderThickness="0,1,0,1">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <TextBlock Margin="10" Name="NameOfStaionAR" FontSize="30"
+                                   HorizontalAlignment="Center" FontWeight="SemiLight" >
+                            <TextBlock.Foreground>
+                                <SolidColorBrush Color="{StaticResource ThirdColor}"/>
+                            </TextBlock.Foreground>
+                        </TextBlock>
+                        <TextBlock Text="" VerticalAlignment="Center" FontSize="25" 
+                                   FontFamily="Segoe MDL2 Assets" Name="StationDesc" FontWeight="SemiLight">
+                            <TextBlock.Foreground>
+                                <SolidColorBrush Color="{StaticResource ThirdColor}"/>
+                            </TextBlock.Foreground>
+                        </TextBlock>
+                    </StackPanel>
+                </Grid>
+                <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                    <TextBlock VerticalAlignment="Center" FontSize="30" 
+                           Text="*" Foreground="LightCoral"  Margin="0,0,5,0"/>
+                    <TextBlock VerticalAlignment="Center" Foreground="LightCoral">
+                     Train supprimé les Dimanches et Fêtes
+                    </TextBlock>
+                </StackPanel>
+            </StackPanel>
+
+
+
+            <ListView Name="MyListView" Grid.Row="1" Margin="0,20,0,20"
+                      RequestedTheme="Light" HorizontalAlignment="Center">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="data:TimeOfStation">
+                        <local:TimeStationsTemplate VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Grid>
+</Page>

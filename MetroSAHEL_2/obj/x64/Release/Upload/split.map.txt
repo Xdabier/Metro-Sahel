@@ -1,0 +1,23 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\Upload\split.pri"			"resources.pri"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\MetroSAHEL_2.xr.xml"			"MetroSAHEL_2.xr.xml"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\StoreLogo.scale-200.png"			"Assets\StoreLogo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\StationTemplateBackground.png"			"Assets\StationTemplateBackground.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Square71x71Logo.scale-200.png"			"Assets\Square71x71Logo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Square310x310Logo.scale-200.png"			"Assets\Square310x310Logo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Metro_Sahel01.JPG"			"Assets\Metro_Sahel01.JPG"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\logo.png"			"Assets\logo.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\locIcon.png"			"Assets\locIcon.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\HeaderHome.png"			"Assets\HeaderHome.png"
+"C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x64\Release\PackageUploadLayout\Assets\Background2.png"			"Assets\Background2.png"

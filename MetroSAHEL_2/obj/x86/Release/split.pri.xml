@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="32840OussamaSAIBI.22666CC98E63F" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>200</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AboutPage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/AboutPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Fav1.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Fav1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Fav2.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Fav2.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FirstPage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/FirstPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HomePage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/HomePage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MapPage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/MapPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MetroSAHEL_2.xr.xml" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/MetroSAHEL_2.xr.xml">
+				<Candidate type="Path">
+					<Value>MetroSAHEL_2.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PageForUpdate.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/PageForUpdate.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SMPage.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/SMPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Stations.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Stations.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StationTemplate.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/StationTemplate.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimesPageSM.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/TimesPageSM.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeStationsTemplate.xbf" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/TimeStationsTemplate.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Background2.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Background2.png">
+					<Candidate type="Path">
+						<Value>Assets\Background2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HeaderHome.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/HeaderHome.png">
+					<Candidate type="Path">
+						<Value>Assets\HeaderHome.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="locIcon.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/locIcon.png">
+					<Candidate type="Path">
+						<Value>Assets\locIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/logo.png">
+					<Candidate type="Path">
+						<Value>Assets\logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Metro_Sahel01.JPG" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Metro_Sahel01.JPG">
+					<Candidate type="Path">
+						<Value>Assets\Metro_Sahel01.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StationTemplateBackground.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/StationTemplateBackground.png">
+					<Candidate type="Path">
+						<Value>Assets\StationTemplateBackground.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.WindowsAzure.Messaging.Managed">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="ConflictWithReservedName" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ConflictWithReservedName">
+					<Candidate type="String">
+						<Value>Template name is conflict with reserved name.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorArgumentInvalidComError" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorArgumentInvalidComError">
+					<Candidate type="String">
+						<Value>Argument "{0}" does not represent a valid HTTP error code.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorArgumentMustBeNonEmpty" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorArgumentMustBeNonEmpty">
+					<Candidate type="String">
+						<Value>Argument "{0}" must be a non-empty string.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorArgumentMustBePositive" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorArgumentMustBePositive">
+					<Candidate type="String">
+						<Value>Argument "{0}" must be greater than zero. The actual value is "{1}".</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorArgumentMustBeZeroOrPositive" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorArgumentMustBeZeroOrPositive">
+					<Candidate type="String">
+						<Value>Argument "{0}" must be greater than or equal to zero. The actual value is "{1}".</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorConnectionStringEmptyKey" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorConnectionStringEmptyKey">
+					<Candidate type="String">
+						<Value>Empty key name</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorConnectionStringMissingCharacter" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorConnectionStringMissingCharacter">
+					<Candidate type="String">
+						<Value>Missing {0} character</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorConnectionStringMissingKey" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorConnectionStringMissingKey">
+					<Candidate type="String">
+						<Value>Missing key name</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorFailedRequest" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorFailedRequest">
+					<Candidate type="String">
+						<Value>HTTP request failed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorInvalidConnectionString" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorInvalidConnectionString">
+					<Candidate type="String">
+						<Value>Argument "{0}" is not a valid connection string: "{1}"</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorInvalidEndpoint" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorInvalidEndpoint">
+					<Candidate type="String">
+						<Value>"{0}" is not a valid endpoint. The endpoint must be in the following format: "http://namespace.servicebus.windows.net"</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorInvalidXml" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorInvalidXml">
+					<Candidate type="String">
+						<Value>Xml template is expected to contain CData. But it actually contains "{0}"</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorItemNotFound" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorItemNotFound">
+					<Candidate type="String">
+						<Value>Item "{0}" cannot be found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorMessageBodyNull" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorMessageBodyNull">
+					<Candidate type="String">
+						<Value>The message body is null</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorMissingServiceBusKey" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorMissingServiceBusKey">
+					<Candidate type="String">
+						<Value>Required key,{0},is missing.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorNoContent" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorNoContent">
+					<Candidate type="String">
+						<Value>HTTP response returned no data.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorNullFilterAndAction" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorNullFilterAndAction">
+					<Candidate type="String">
+						<Value>Either filter or action must not be null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorParsingConnectionString" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorParsingConnectionString">
+					<Candidate type="String">
+						<Value>"{0}" at position {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorReceivePumpActivated" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorReceivePumpActivated">
+					<Candidate type="String">
+						<Value>Receive operation is not allowed when an OnMessage delegate has been registered with this entity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorRefreshRegistration" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorRefreshRegistration">
+					<Candidate type="String">
+						<Value>Refresh registration with latest channelUri failed or didn't execute. Please try to call RefreshRegistrationsAsync again.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorUnsupportedPropertyType" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorUnsupportedPropertyType">
+					<Candidate type="String">
+						<Value>Unsupported custom property type: {0}.
+
+Custom properties can be only of string, numerical, Boolean, or DateTime types.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorWrapAuthentication" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ErrorWrapAuthentication">
+					<Candidate type="String">
+						<Value>WRAP authentication failed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HttpDetails" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/HttpDetails">
+					<Candidate type="String">
+						<Value>HTTP Details:
+Status: {0}
+Reason: {1}
+Full content: {2}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HttpErrorMessage" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/HttpErrorMessage">
+					<Candidate type="String">
+						<Value>{0}
+
+{1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidTemplateName" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/InvalidTemplateName">
+					<Candidate type="String">
+						<Value>Template name can't contain ";" or ":".</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MissingChannelUri" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/MissingChannelUri">
+					<Candidate type="String">
+						<Value>ChannelUri is not set. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MissingSecondaryChannelUri" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/MissingSecondaryChannelUri">
+					<Candidate type="String">
+						<Value>ChannelUri for the given secondary tile is not set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NotSupportedXMLFormatAsBodyTemplate" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/NotSupportedXMLFormatAsBodyTemplate">
+					<Candidate type="String">
+						<Value>The bodyTemplate is not in accepted XML format. The first node of the bodyTemplate should be Badge/Tile/Toast, except wns/raw template, which need to be an valid XML.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectDisposedMessage" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/ObjectDisposedMessage">
+					<Candidate type="String">
+						<Value>This object has bee disposed and cannot be used.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RegisterReceivedCallbackAlreadyCalled" uri="ms-resource://32840OussamaSAIBI.22666CC98E63F/Microsoft.WindowsAzure.Messaging.Managed/Resources/RegisterReceivedCallbackAlreadyCalled">
+					<Candidate type="String">
+						<Value>OnMessage has already been called.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

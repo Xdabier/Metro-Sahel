@@ -1,0 +1,6 @@
+MainPackage=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\ARM\Release\MetroSAHEL_2_1.3.0.0_ARM.appx
+SymbolPackage=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\AppPackages\MetroSAHEL_2_1.3.0.0_Test\MetroSAHEL_2_1.3.0.0_ARM.appxsym
+ResourcePack=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\ARM\Release\MetroSAHEL_2_1.3.0.0_scale-100.appx
+ResourcePack=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\ARM\Release\MetroSAHEL_2_1.3.0.0_scale-125.appx
+ResourcePack=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\ARM\Release\MetroSAHEL_2_1.3.0.0_scale-150.appx
+ResourcePack=C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\ARM\Release\MetroSAHEL_2_1.3.0.0_scale-400.appx
