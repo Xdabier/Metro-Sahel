@@ -10,31 +10,31 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>6eede5cc-6728-433e-a034-b835a95acf4a</PackageIdentityName>
     <PackageIdentityPublisher>CN=82A12399-115A-43F2-A31B-62B693A405B7</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>34969DA27DCBFC5041E16ED6345B930A58996BC45E23B433C130B2017460357E</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>32840OussamaSAIBI.22666CC98E63F_1.1.0.0_x86__274rvj1ptth6a</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>34989AE4E03D5F89F4BBCAFF6FFF2167C0CCCCBD62E73D678B2752A05E45CE84</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32840OussamaSAIBI.22666CC98E63F_1.3.0.0_x86__274rvj1ptth6a</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>32840OussamaSAIBI.22666CC98E63F_274rvj1ptth6a!App</RegisteredUserModeAppID>
     <RegisteredPackageID>32840OussamaSAIBI.22666CC98E63F</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=82A12399-115A-43F2-A31B-62B693A405B7</RegisteredPackagePublisher>
-    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <RegisteredVersion>1.3.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-05T13:45:27.505</Modified>
+      <Modified>2016-11-28T17:17:13.645</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x86\Debug\MetroSAHEL_2.exe">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\bin\x86\Debug\MetroSAHEL_2.exe">
       <PackagePath>entrypoint\MetroSAHEL_2.exe</PackagePath>
-      <Modified>2016-11-05T13:45:25.012</Modified>
+      <Modified>2016-11-28T17:17:11.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -452,152 +452,151 @@
       <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
       <Modified>2014-07-30T11:12:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\HeaderHome.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Background2.png">
+      <PackagePath>Assets\Background2.png</PackagePath>
+      <Modified>2016-11-05T14:03:53.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\HeaderHome.png">
       <PackagePath>Assets\HeaderHome.png</PackagePath>
       <Modified>2016-09-18T12:52:18.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\locIcon.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\locIcon.png">
       <PackagePath>Assets\locIcon.png</PackagePath>
       <Modified>2016-09-18T12:52:18.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\logo.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\logo.png">
       <PackagePath>Assets\logo.png</PackagePath>
       <Modified>2016-09-24T23:17:10.459</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square310x310Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square310x310Logo.scale-200.png">
       <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <Modified>2016-09-18T12:52:22.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square310x310Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square310x310Logo.scale-400.png">
       <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
       <Modified>2016-09-18T12:52:22.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <Modified>2016-09-18T12:52:22.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square71x71Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square71x71Logo.scale-125.png">
       <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
       <Modified>2016-09-18T12:52:22.685</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square71x71Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square71x71Logo.scale-150.png">
       <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
       <Modified>2016-09-18T12:52:22.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square71x71Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square71x71Logo.scale-200.png">
       <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <Modified>2016-09-18T12:52:22.700</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square71x71Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <Modified>2016-09-18T12:52:22.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StationTemplateBackground.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StationTemplateBackground.png">
       <PackagePath>Assets\StationTemplateBackground.png</PackagePath>
-      <Modified>2016-11-05T13:39:42.339</Modified>
+      <Modified>2016-11-05T13:51:40.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-07-21T21:47:01.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-07-21T21:43:27.636</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:23.003</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2016-09-18T12:52:22.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T13:15:58.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T16:20:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-09-18T12:52:22.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Assets\Metro_Sahel01.JPG">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Assets\Metro_Sahel01.JPG">
       <PackagePath>Assets\Metro_Sahel01.JPG</PackagePath>
       <Modified>2016-10-09T00:04:04.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-09-18T12:19:58.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x86\Debug\MetroSAHEL_2.xr.xml">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\bin\x86\Debug\MetroSAHEL_2.xr.xml">
       <PackagePath>MetroSAHEL_2.xr.xml</PackagePath>
-      <Modified>2016-11-05T13:42:48.835</Modified>
+      <Modified>2016-11-25T19:53:57.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-10-22T18:33:58.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-11-05T13:45:26.715</Modified>
+      <Modified>2016-11-25T19:54:04.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\Visual Studio 2015\Projects\MetroSAHEL_2\MetroSAHEL_2\bin\x86\Debug\Core\MetroSAHEL_2.exe">
+    <AppxPackagedFile Include="C:\Users\SAIBIOUSSAMA\Documents\GitHub\Metro-Sahel\MetroSAHEL_2\bin\x86\Debug\Core\MetroSAHEL_2.exe">
       <PackagePath>MetroSAHEL_2.exe</PackagePath>
-      <Modified>2016-11-05T13:45:27.495</Modified>
+      <Modified>2016-11-28T17:17:13.635</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -630,27 +629,27 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.24210.0</Version>
+      <Version>14.0.24629.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24629.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.24210.0</Version>
+      <Version>14.0.24629.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24629.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.24210.0</Version>
+      <Version>14.0.24629.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24629.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

@@ -45,9 +45,9 @@ namespace MetroSAHEL_2.Models
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 18, StationNameAR = "خنيس بنبلة", StationNameFR = "Khniss Bembla", Lat = 35.709035, Long = 10.812421 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 19, StationNameAR = "الفرينة", StationNameFR = "Frina", Lat = 35.730630, Long = 10.812594 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 20, StationNameAR = "المنستير.م.ص", StationNameFR = "Monastire Z.I", Lat = 35.740184, Long = 10.820412 });
-            Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 21, StationNameAR = "الكلية", StationNameFR = "Faculté", Lat = 35.759444, Long = 10.807085 });
+            Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 21, StationNameAR = "الكلية 2", StationNameFR = "Faculté 2", Lat = 35.759444, Long = 10.807085 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 22, StationNameAR = "المنستير", StationNameFR = "Monastir", Lat = 35.770655, Long = 10.825323 });
-            Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 23, StationNameAR = "الكلية", StationNameFR = "Faculté", Lat = 35.759444, Long = 10.807085 });
+            Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 23, StationNameAR = "الكلية 1", StationNameFR = "Faculté 1", Lat = 35.759444, Long = 10.807085 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 24, StationNameAR = "المطار", StationNameFR = "L'aéroport", Lat = 35.762501, Long = 10.754106 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 25, StationNameAR = "النزل", StationNameFR = "Les Hotels", Lat = 35.760118, Long = 10.744897 });
             Stations.Add(new Station {Direction=Direction.MS , Desc = "", Id = 26, StationNameAR = "الساحلين السبخة", StationNameFR = "Sahline Sabkha", Lat = 35.757677, Long = 10.716536 });
@@ -71,9 +71,9 @@ namespace MetroSAHEL_2.Models
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 6, StationNameAR = "الساحلين السبخة", StationNameFR = "Sahline Sabkha", Lat = 35.757677, Long = 10.716536 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 7, StationNameAR = "النزل", StationNameFR = "Les Hotels", Lat = 35.760118, Long = 10.744897 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 8, StationNameAR = "المطار", StationNameFR = "L'aéroport", Lat = 35.762501, Long = 10.754106 });
-            Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 9, StationNameAR = "الكلية", StationNameFR = "Faculté", Lat = 35.759444, Long = 10.807085 });
+            Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 9, StationNameAR = "الكلية 1", StationNameFR = "Faculté 1", Lat = 35.759444, Long = 10.807085 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 10, StationNameAR = "المنستير", StationNameFR = "Monastir", Lat = 35.770655, Long = 10.825323 });
-            Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 11, StationNameAR = "الكلية", StationNameFR = "Faculté", Lat = 35.759444, Long = 10.807085 });
+            Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 11, StationNameAR = "الكلية 2", StationNameFR = "Faculté 2", Lat = 35.759444, Long = 10.807085 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 12, StationNameAR = "المنستير.م.ص", StationNameFR = "Monastire Z.I", Lat = 35.740184, Long = 10.820412 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 13, StationNameAR = "الفرينة", StationNameFR = "Frina", Lat = 35.730630, Long = 10.812594 });
             Stations.Add(new Station {Direction = Direction.SM, Desc = "", Id = 14, StationNameAR = "خنيس بنبلة", StationNameFR = "Khniss Bembla", Lat = 35.709035, Long = 10.812421 });

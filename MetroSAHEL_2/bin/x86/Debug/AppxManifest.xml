@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="32840OussamaSAIBI.22666CC98E63F" Publisher="CN=82A12399-115A-43F2-A31B-62B693A405B7" Version="1.1.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="32840OussamaSAIBI.22666CC98E63F" Publisher="CN=82A12399-115A-43F2-A31B-62B693A405B7" Version="1.3.0.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="6eede5cc-6728-433e-a034-b835a95acf4a" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Metro SAHEL</DisplayName>
@@ -41,7 +41,7 @@
     <build:Item Name="ProjectGUID" Value="{31954918-BAE8-4254-98B0-3F7BD743A351}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.25420.1" />
-    <build:Item Name="MakePri.exe" Version="10.0.10586.212 (th2_release_sec.160328-1908)" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.25527.1" />
+    <build:Item Name="MakePri.exe" Version="10.0.14965.1000 (rs_prerelease_prs.161103-1804)" />
   </build:Metadata>
 </Package>
